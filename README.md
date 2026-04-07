@@ -1,6 +1,6 @@
 # SPCTR021
 # 💫 About Me:
-🔭 I’m currently working on improving my web development skills<br>👯 I’m looking to collaborate on future opportunities and projects<br>🤝 I’m seeking guidance and collaboration with experienced developers<br>🌱 I’m currently learning web development and cybersecurity<br>⚡ Fun fact: I love video editing as a hustle
+Junior web developer currently improving my skills, learning web development and cybersecurity, and seeking opportunities to collaborate with experienced developers on future projects. Passionate about continuous growth, with a strong interest in video editing.
 
 
 ## 🌐 Socials:
